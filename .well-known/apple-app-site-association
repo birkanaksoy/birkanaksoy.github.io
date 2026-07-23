@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["879968V3XN.com.ejectpro.app"],
+        "components": [
+          { "/": "/app/*", "comment": "Open Eject Pro to a clean" }
+        ]
+      }
+    ]
+  }
+}
